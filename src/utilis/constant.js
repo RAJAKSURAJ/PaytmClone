@@ -7,6 +7,10 @@ export const url = {
   playstore: "https://play.google.com/store/apps/details?id=net.one97.paytm",
   appstore:
     "https://apps.apple.com/in/app/paytm-secure-upi-payments/id473941634",
+  loanCreditCard: "https://paytm.com/loans-credit-cards-disclaimer",
+  hdfcCreditCard:
+    "https://paytm.com/loans-credit-cards/credit-cards/paytm-hdfc-bank-select-credit-card/",
+  sbiCreditCard: "https://paytm.com/loans-credit-cards/credit-cards/sbi/",
 };
 
 export const styles = {
@@ -37,4 +41,17 @@ export const Images = {
     "https://assetscdn1.paytm.com/images/catalog/view_item/729998/1666185237748.png",
   InternationalFlight:
     "https://assetscdn1.paytm.com/images/catalog/view_item/729999/1626259968563.png",
+  wallet:
+    "https://assetscdn1.paytm.com/images/catalog/view/307185/1617861564011.png",
+  upi: "https://assetscdn1.paytm.com/images/catalog/view/307186/1615957674521.png",
+  upiTransaction:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/728702/1626342071104.png",
+  paytmHdfc:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640242865113.png",
+  paytmSbi:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/853976/1640242163727.png",
+  crediCard1:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640241561388.png",
+  crediCard2:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/853976/1626079147084.png",
 };

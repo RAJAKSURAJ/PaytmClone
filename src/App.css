@@ -14,7 +14,15 @@
 }
 .body-text2 {
   padding-top: 10px;
-  width: 475px;
+  width: 400px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+}
+.body-text3 {
+  padding-top: 10px;
+  width: 400px;
   margin-bottom: 40px;
   font-size: 20px;
   font-weight: 500;
@@ -29,11 +37,7 @@
   display: flex;
   margin-top: 25px;
 }
-.bodycard {
-  margin-top: 25px;
-  justify-content: space-between;
-  background-color: #00baf2;
-}
+
 .img {
   width: 64px;
   margin-bottom: 17px;
@@ -46,4 +50,24 @@
   margin-top: 25px;
   justify-content: space-between;
   background-color: #002970;
+}
+.text2 {
+  font-size: 48px;
+  font-weight: 700px;
+  display: flex;
+  align-items: center;
+}
+.creditcard {
+  width: 1170px;
+  margin: auto;
+  padding: 0 25px 180px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.hdfccard {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  padding: 0 0 0 0;
 }
