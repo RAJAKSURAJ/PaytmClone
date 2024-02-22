@@ -11,6 +11,21 @@ export const url = {
   hdfcCreditCard:
     "https://paytm.com/loans-credit-cards/credit-cards/paytm-hdfc-bank-select-credit-card/",
   sbiCreditCard: "https://paytm.com/loans-credit-cards/credit-cards/sbi/",
+  paytmMoney: "https://www.paytmmoney.com/",
+  paytmBank: "https://www.paytmbank.com/AccountOpening",
+  paytmInsurance: "https://paytminsurance.co.in/",
+  paytmPersonalLoan: "https://paytm.com/loans-credit-cards/personal-loan/",
+  paymentGateway: "https://business.paytm.com/payment-gateway",
+  merchant: "https://business.paytm.com/",
+  billing: "https://business.paytm.com/pos-billing-software",
+  BussinessApp: "https://business.paytm.com/p4b-app-download",
+  Bussiness: "https://business.paytm.com/business-khata",
+  paytmAds: "https://paytm.com/",
+  stock: "https://www.paytmmoney.com/stocks",
+  Flight: "https://tickets.paytm.com/flights/",
+  twitter: "https://twitter.com/paytm",
+  Instagram: "https://www.instagram.com/paytm/",
+  faceBook: "https://facebook.com/paytm",
 };
 
 export const styles = {
@@ -54,4 +69,57 @@ export const Images = {
     "https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640241561388.png",
   crediCard2:
     "https://assetscdn1.paytm.com/images/catalog/view_item/853976/1626079147084.png",
+  paytmPaymentBank:
+    "https://assetscdn1.paytm.com/images/catalog/view/307193/1617696576778.png",
+  paytmBankTransaction:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/728826/1626076427497.png",
+
+  grayPink:
+    "https://pwebassets.paytm.com/commonwebassets/commonweb/images/home/gray-spike.png",
+  paytmMoney:
+    "https://assetscdn1.paytm.com/images/catalog/view/308774/1617696247991.png",
+  paytmInsurance:
+    "https://assetscdn1.paytm.com/images/catalog/view/308775/1653901470333.jpeg",
+  PersonalLoan:
+    "https://assetscdn1.paytm.com/images/catalog/view/308777/1617695287770.png",
+  dashBoard:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/854033/1626081565192.png",
+  PytmBussiness:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/854035/1626081071077.png",
+  paytmUpi:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/854036/1656568216166.png",
+  Transaction:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/854038/1626081814411.png",
+  paytmMoney2:
+    "https://assetscdn1.paytm.com/images/catalog/view/307196/1626420555412.png",
+  Stock:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/728894/1618576143299.png",
+  Ipo: "https://assetscdn1.paytm.com/images/catalog/view_item/728895/1618575899205.png",
+  ETF: "https://assetscdn1.paytm.com/images/catalog/view_item/800760/1618831809222.png",
+  Gold: "https://assetscdn1.paytm.com/images/catalog/view_item/728896/1618575990183.png",
+  MutualFund:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/728899/1618576408440.png",
+  Flight:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/863734/1627552693557.png",
+  Refund:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/864144/1627566096011.png",
+  Bus: "https://assetscdn1.paytm.com/images/catalog/view_item/864145/1627566172335.png",
+  sanitized:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/864151/1627567062180.png",
+  Train:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/864152/1696910826276.png",
+  PnrStatus:
+    "https://assetscdn1.paytm.com/images/catalog/view_item/864153/1627566396231.png",
+  PaytmTravel2:
+    "https://assetscdn1.paytm.com/images/catalog/view/307197/1626419838546.png",
+  Twitter:
+    "https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/twitter.svg",
+  Instagram:
+    "	https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/instagram.svg",
+  faceBook:
+    "	https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/facebook.svg",
+  AppStore:
+    "https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/downloadApple.svg",
+  PlayStore:
+    "	https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/downloadGoogle.svg",
 };
